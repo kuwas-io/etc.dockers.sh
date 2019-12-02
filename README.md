@@ -7,11 +7,11 @@
 
 # etc.dockers.sh #
 
-[ ![ Actions ][ actions-ico ] ][ actions-url ]
-[ ![ Coverages ][ coverages-ico ] ][ coverages-url ]
-[ ![ Issues ][ issues-ico ] ][ issues-url ]
-[ ![ Languages ][ languages-ico ] ][ languages-url ]
-[ ![ Version ][ version-ico ] ][ version-url ]
+[ ![ Actions ][ actions-ico ] ][ actions-url ]  
+[ ![ Coverages ][ coverages-ico ] ][ coverages-url ]  
+[ ![ Issues ][ issues-ico ] ][ issues-url ]  
+[ ![ Languages ][ languages-ico ] ][ languages-url ]  
+[ ![ Version ][ version-ico ] ][ version-url ]  
 
 - - -
 > etc » dockers » sh
@@ -35,7 +35,7 @@
 * n/a
 
 - - -
-[ ![ License ][ license-ico ] ][ license-url ]
+[ ![ License ][ license-ico ] ][ license-url ]  
 
 [ license-ico ]: https://img.shields.io/github/license/kuwas-io/etc.dockers.sh?style=for-the-badge&logo=github
 [ license-url ]: https://choosealicense.com/licenses/isc
